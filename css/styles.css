@@ -1,0 +1,17 @@
+.post {
+  height: 300px;
+  text-align: center;
+}
+
+.post img {
+  height: 290px;
+}
+
+.top-duder {
+  width: 100%;
+}
+
+.columns :hover{
+  background-color: #fcc;
+  color: blue;
+}
